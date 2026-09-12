@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "apkUrl": "https://github.com/peaeae314-hub/pokemon-handbook-releases/releases/download/v0.2.1/pokemon-handbook-arm64-release.apk",
+  "versionCode": 4,
+  "versionName": "0.2.2",
+  "apkUrl": "https://github.com/peaeae314-hub/pokemon-handbook-releases/releases/download/v0.2.2/pokemon-handbook-arm64-release.apk",
   "force": false,
-  "changelogZh": "接入 GitHub Releases 应用内更新；修复立绘与网络权限"
+  "changelogZh": "详情页立绘卡片；太晶化独立卡片；努力值刷点改名并每项最多两种"
 }
