@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.3",
-  "apkUrl": "https://github.com/peaeae314-hub/pokemon-handbook-releases/releases/download/v0.2.3/pokemon-handbook-arm64-release.apk",
+  "versionCode": 6,
+  "versionName": "0.2.4",
+  "apkUrl": "https://github.com/peaeae314-hub/pokemon-handbook-releases/releases/download/v0.2.4/pokemon-handbook-arm64-release.apk",
   "force": false,
-  "changelogZh": "首页双模式：立绘/培育方案；详情可放置主页"
+  "changelogZh": "SnackBar 软圆角深色主题；放置主页提示与全局 snackBarTheme 对齐"
 }
