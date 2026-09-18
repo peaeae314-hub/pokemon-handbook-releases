@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.5",
-  "apkUrl": "https://github.com/peaeae314-hub/pokemon-handbook-releases/releases/download/v0.2.5/pokemon-handbook-arm64-release.apk",
+  "versionCode": 8,
+  "versionName": "0.2.6",
+  "apkUrl": "https://github.com/peaeae314-hub/pokemon-handbook-releases/releases/download/v0.2.6/pokemon-handbook-arm64-release.apk",
   "force": false,
-  "changelogZh": "修复应用内更新误报「已是最新」：多源拉取 version.json（GitHub Releases / jsDelivr / Fastly / raw）并取最高 versionCode；拉取失败与真正最新文案分离"
+  "changelogZh": "首页御三家改为 Pokemon Showdown ani 像素动画；署名 Showdown"
 }
